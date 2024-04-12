@@ -216,7 +216,7 @@ AFGHANSTAN MAFIA
 \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32mMafia Rayess
 \033[1;32mWHATSAPP   \033[1;31m ➟   \033[1;32m+93783361438
 \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁  \033[1;31m ➟   \033[1;32mcrimanl313
-\033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m5.5
+\033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m6.5
 \033[1;32m𝐓𝐎𝐎𝐋𝐒 𝐒𝐓𝐀𝐓𝐔𝐒 \033[1;31m ➟   \033[1;32m𝐅𝐑𝐄𝐄
 \033[1;37m MAFIA TURMEX COMMANDS
 \033[1;37m══════════════════════════════════════════════════"""
@@ -650,23 +650,22 @@ def freeq(uid,pwx,tl):
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    # 'cookie': 'datr=3b3iZTYMXaN9VcWGqCpGZ2ec; sb=3b3iZdhRdQ5MGjXias9sY67r; ps_l=0; ps_n=0; vpd=v1%3B578x314x3.43505597114563; oo=v1; dpr=3.43505597114563; m_pixel_ratio=3.43505597114563; x-referer=eyJyIjoiL2hvbWUucGhwIiwiaCI6Ii9ob21lLnBocCIsInMiOiJtIn0%3D; locale=fa_IR; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712483490; wd=315x578',
+    # 'cookie': 'datr=wIAUZkfNZci5jRYJIygKSgKM; sb=wIAUZkUmq2yI1hEMHk_9KhiX; ps_l=0; ps_n=0; locale=en_US; wl_cbv=v2%3Bclient_version%3A2462%3Btimestamp%3A1712640548; vpd=v1%3B578x314x3.43505597114563; m_pixel_ratio=3.7835533618927; x-referer=eyJyIjoiL2Jvb2ttYXJrcy8%2FcmVmPTEwNCZwYWlwdj0wJmVhdj1BZmJGY0N6S2VVTnMtMzkwRzhNUDlTTGZwS2tPYnA1VE5WUVNrT1kwZ09rWkFQM2V6ZmxOV3pkM0dRNHQtUDBGZnhZIiwiaCI6Ii9ib29rbWFya3MvP3JlZj0xMDQmcGFpcHY9MCZlYXY9QWZiRmNDektlVU5zLTM5MEc4TVA5U0xmcEtrT2JwNVROVlFTa09ZMGdPa1pBUDNlemZsTld6ZDNHUTR0LVAwRmZ4WSIsInMiOiJtIn0%3D; wd=712x1308',
     'dpr': '2.75',
-    'referer': 'https://m.facebook.com/bookmarks/',
+    'referer': 'https://m.facebook.com/bookmarks/?ref=104&paipv=0&eav=AfbFcCzKeUNs-390G8MP9SLfpKkObp5TNVQSkOY0gOkZAP3ezflNWzd3GQ4t-P0FfxY',
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
     'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
-    'sec-ch-ua-mobile': '?1',
-    'sec-ch-ua-model': '"Mi Note 10 Lite"',
-    'sec-ch-ua-platform': '"Android"',
-    'sec-ch-ua-platform-version': '"12.0.0"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-model': '""',
+    'sec-ch-ua-platform': '"Linux"',
+    'sec-ch-ua-platform-version': '""',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
-    'service-worker-navigation-preload': '{"k":"rev,1012602634;locale,fa_IR;cohort,BP:DEFAULT;branch,trunk;dpr,3;features,;u,100092845052717;","a":"1712483496","t":31536000,"n":"tVXQFKce","v":"2458","p":4,"r":1012602634,"o":"h2","y":"wblt"}',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'viewport-width': '980',
 }
             lo = session.post('https://www.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
